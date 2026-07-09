@@ -4,7 +4,6 @@
 
 I am a Data Analyst transitioning into tech after **8+ years** of hands-on experience in business operations and management. I bring a unique blend of real-world business acumen and rigorous technical proficiency in Python, SQL, and data visualization. I specialize in extracting messy data, building reliable pipelines, and uncovering actionable insights that help businesses optimize budgets, streamline operations, and drive revenue.
 
----
 
 ## 🛠️ Technical Skills & Learning Portfolio
 *(Click any technical skill below to view the detailed repository containing my notes, code, and Learning Portfolio). [View Full Repository Here](https://github.com/animeshsanghi-da/my-learning-journey)*
@@ -32,7 +31,6 @@ I am a Data Analyst transitioning into tech after **8+ years** of hands-on exper
 * **Environments:** [VS Code, Jupyter Lab, Conda, Anaconda, MySQL Workbench, Obsidian](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/02-Intro_to_Data_Science/)
 * **Operating Systems:** Proficient in Windows, Linux, and macOS
 
----
 
 ## 🚀 Featured Projects & Repositories
 
@@ -50,7 +48,6 @@ I am a Data Analyst transitioning into tech after **8+ years** of hands-on exper
 * **[Mini_Projects-DA_and_ML](https://github.com/animeshsanghi-da/Mini_Projects-DA_and_ML)**:
   * A comprehensive portfolio featuring **34 distinct practical projects** spanning data analytics, machine learning, software engineering, and AI tool development utilizing Python, SQL, Power BI, and various API frameworks.
 
----
 
 ## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/animeshsanghi-da](https://www.linkedin.com/in/animeshsanghi-da/)

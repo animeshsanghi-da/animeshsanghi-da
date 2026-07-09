@@ -36,15 +36,19 @@ I am a Data Analyst transitioning into tech after **8+ years** of hands-on exper
 
 ## 🚀 Featured Projects & Repositories
 
-* **[Olist E-Commerce Data Analysis](https://github.com/animeshsanghi-da/animesh-project-on-olist)**
+* **[Project-on-Olist_Dataset](https://github.com/animeshsanghi-da/Project-on-Olist_Dataset)**:
   * Engineered an end-to-end scalable pipeline using Python (Pandas, NumPy) to extract, clean, and merge **6 distinct relational MySQL tables** into a master dataset containing over **100,000 rows** of Brazilian e-commerce data.
   * Trained a Linear Regression model to prove the exact business impact of shipping delays, identifying a drop in customer review scores from **4.29 to 2.27 stars**.
 
-* **[Pizza Sales SQL Project](https://github.com/animeshsanghi-da/pizza-sale-SQL-project)**
+* **[Project-on-Pizza_sale-SQL](https://github.com/animeshsanghi-da/Project-on-Pizza_sale-SQL)**:
   * A comprehensive SQL-based data analysis exploring pizza store sales. Features targeted queries answering real-world business questions regarding peak ordering hours, top-selling categories, and revenue distribution utilizing Complex Joins, Window Functions, and Subqueries.
 
-* **[Minor Projects](https://github.com/animeshsanghi-da/Minor_Projects)**
-  * A collection of quick, innovative, and practical Python scripts and mini-projects used for continuous practice and logic building.
+* **[Project-on-IBM_Telco_Customer_Churn_Retention_System](https://github.com/animeshsanghi-da/Project-on-IBM_Telco_Customer_Churn_Retention_System)**:
+  * Engineered a production-grade machine learning pipeline to predict customer churn, integrating a robust MySQL database architecture with programmatic Python ETL streaming.
+  * Deployed an interactive Streamlit web application providing real-time risk scoring and automated business retention strategies based on predictive modeling (XGBoost/Scikit-learn).
+
+* **[Mini_Projects-DA_and_ML](https://github.com/animeshsanghi-da/Mini_Projects-DA_and_ML)**:
+  * A comprehensive portfolio featuring **34 distinct practical projects** spanning data analytics, machine learning, software engineering, and AI tool development utilizing Python, SQL, Power BI, and various API frameworks.
 
 ---
 

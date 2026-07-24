@@ -2,54 +2,59 @@
 
 > **Google-Certified Data Analyst | MBA Candidate (Analytics & Data Science, MUJ '28)**
 
-I am a Data Analyst transitioning into tech after **8+ years** of hands-on experience in business operations and management. I bring a unique blend of real-world business acumen and rigorous technical proficiency in Python, SQL, and data visualization. I specialize in extracting messy data, building reliable pipelines, and uncovering actionable insights that help businesses optimize budgets, streamline operations, and drive revenue.
+I am transitioning into tech after **8+ years** of hands-on experience in business operations, franchise ownership, and regional management. I bring a unique blend of real-world business acumen and advanced technical proficiency in Python, SQL, and Cloud Data Architecture. 
+
+My specialty lies in extracting messy, large-scale datasets, engineering reliable ETL pipelines, and utilizing Gen-AI and predictive modeling to uncover straightforward, actionable insights. I don't just crunch numbers; I build data-driven strategies that optimize budgets, streamline operations, and drive revenue.
 
 
-## 🛠️ Technical Skills & Learning Portfolio
-*(Click any technical skill below to view the detailed repository containing my notes, code, and Learning Portfolio). [View Full Repository Here](https://github.com/animeshsanghi-da/my-learning-journey)*
+## 🚀 Featured Data Analytics & ML Projects
 
-### 🐍 Languages & Databases
-* **Languages:** [Python (Advanced)](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/04-OOP_and_Advanced_Python/), [SQL (MySQL)](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/12-MySQL/)
-* **Databases:** [Relational Database Design](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/12-MySQL/12.01-MySQL_Creation_Types_Constraints.md), [CRUD Operations](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/12-MySQL/12.02-MySQL_CRUD_Operations.md), [Complex Joins](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/12-MySQL/12.04-MySQL_Joins_Set_Operations.md), [Subqueries](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/12-MySQL/12.06-MySQL_Subqueries.md), [Query Optimization](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/12-MySQL/12.07-MySQL_Optimization_Views_Indexes.md)
+Here are my top projects demonstrating my ability to build end-to-end pipelines, deploy machine learning models, and generate business value:
 
-### 📊 Data Analysis & Machine Learning
-* **Libraries:** [Pandas](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/07-Pandas/), [NumPy](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/06-Numpy/), [Scikit-learn](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/13-Machine_Learning_Pipelines/), [Matplotlib](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/08-Data_Visualization/), [Seaborn](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/08-Data_Visualization/08.03-Seaborn_Advanced_Visualizations.md)
-* **Data Science:** [Exploratory Data Analysis (EDA)](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/07-Pandas/07.02-Pandas_Creating_Exploring_EDA.md), [Predictive Modeling](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/13-Machine_Learning_Pipelines/13.03-ML_Training_Models.md), [ML Pipelines](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/13-Machine_Learning_Pipelines/13.02-ML_Transformation_Pipelines.md), [Feature Engineering](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/07-Pandas/), [Statistical Visualization](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/08-Data_Visualization/08.03-Seaborn_Advanced_Visualizations.md)
-* **Methodologies:** [Data Analytics Lifecycle](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/01-Foundation_of_Data_Analytics/01.01-Data_Analytics_Lifecycle.md), [Data Governance](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/01-Foundation_of_Data_Analytics/01.02-Data_Life_Cycle.md), [ETL Processes](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/10-Power_BI/10.01-PowerBI_Power_Query.md), [Data Ethics](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/01-Foundation_of_Data_Analytics/01.06-Data_Ethics_Privacy_Security.md)
+* 📉 **[End-to-End Telco Customer Churn Prediction & Retention System](https://github.com/animeshsanghi-da/Project-on-IBM_Telco_Customer_Churn_Retention_System)**
+  * **Tech Stack:** Python, MySQL, SQLAlchemy, Scikit-Learn, XGBoost, Streamlit
+  * Engineered a production-grade ETL pipeline processing 7,000+ rows of customer data into natively executed MySQL schemas. Developed a hybrid ML pipeline (XGBoost/Scikit-Learn) with an 84% ROC-AUC score, deployed via a dynamic Streamlit web app that provides real-time risk scoring and prescriptive retention strategies.
 
-### 📈 Business Intelligence & Spreadsheets
-* **BI Tools:** [Power BI (DAX, Power Query, Star Schema modeling)](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/10-Power_BI/), [Tableau Public (Data Blending, Calculated Fields)](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/09-Tableau/)
-* **Spreadsheets:** [Advanced Excel (Data Management, Pivot Tables, Complex Formulas)](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/01-Foundation_of_Data_Analytics/01.05-Advanced_Excel.md)
-* **Reporting:** [Interactive Dashboarding](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/09-Tableau/09.04-Tableau_Dashboards_Stories.md), [Data Storytelling](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/09-Tableau/09.04-Tableau_Dashboards_Stories.md), [Report Publishing](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/10-Power_BI/10.05-PowerBI_Publishing_Reports.md)
+* 📦 **[Olist E-Commerce Business Analysis](https://github.com/animeshsanghi-da/Project-on-Olist_Dataset)**
+  * **Tech Stack:** Python (Pandas, NumPy), MySQL, Matplotlib, Seaborn, Scikit-Learn
+  * Built a scalable ETL pipeline to merge 6 distinct relational tables into a 100,000+ row master dataset. Trained a Linear Regression model proving the exact business impact of shipping delays (customer ratings dropping from 4.29 to 2.27 stars) and mapped out geographical bottlenecks to advise management on lead-time improvements.
 
-### ⚙️ Data Engineering & Web Scraping
-* **Collection:** [Web Scraping (BeautifulSoup)](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/11-Web_Scraping/11.03-WebScraping_BeautifulSoup.md), [API Requests (JSON Parsing)](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/11-Web_Scraping/11.02-WebScraping_Requests_Module.md), [DOM Parsing](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/11-Web_Scraping/11.01-WebScraping_HTML_CSS_Basics.md)
-* **File I/O:** [Context Managers](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/05-File_I_O/05.02-With_Statement_and_Binary_Files.md), [Binary I/O](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/05-File_I_O/05.02-With_Statement_and_Binary_Files.md), [Data Ingestion](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/05-File_I_O/), [Dependency Management](https://github.com/animeshsanghi-da/my-learning-journey/blob/main/02-Intro_to_Data_Science/02.04-Virtual_Environments_and_Dependencies.md)
+* 🍕 **[Pizza Sales SQL Analysis](https://github.com/animeshsanghi-da/Project-on-Pizza_sale-SQL)**
+  * **Tech Stack:** Advanced SQL (Joins, Window Functions, CTEs)
+  * Queried raw transactional restaurant data to identify peak ordering hours, top-selling categories, and revenue distribution. Generated high-level overviews to help identify seasonal trends and optimize inventory planning.
 
-### 💻 Tools & Environment
-* **Version Control:** [Git, GitHub (Collaboration, Conflict Resolution, Stashing)](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/14-GIT_and_GitHub/)
-* **Environments:** [VS Code, Jupyter Lab, Conda, Anaconda, MySQL Workbench, Obsidian](https://github.com/animeshsanghi-da/my-learning-journey/tree/main/02-Intro_to_Data_Science/)
-* **Operating Systems:** Proficient in Windows, Linux, and macOS
+* 🤖 **[Data Analytics & Machine Learning Portfolio (34+ Mini-Projects)](https://github.com/animeshsanghi-da/Mini_Projects-DA_and_ML)**
+  * **Tech Stack:** Python, SQL, Power BI, Gen-AI (Google Gemini API), LangChain, Docker, Cloud Run
+  * A massive repository of over 34 practical projects. Includes 30+ baseline ML models (SVM, KNN, Logistic Regression), end-to-end Gen-AI applications (RAG-based PDF Chatbot, Autonomous Data Agent), comprehensive Power BI dashboards, and cloud CI/CD pipelines.
 
 
-## 🚀 Featured Projects & Repositories
+## 🛠️ Technical Skills & My Learning Journey
 
-* **[Project-on-Olist_Dataset](https://github.com/animeshsanghi-da/Project-on-Olist_Dataset)**:
-  * Engineered an end-to-end scalable pipeline using Python (Pandas, NumPy) to extract, clean, and merge **6 distinct relational MySQL tables** into a master dataset containing over **100,000 rows** of Brazilian e-commerce data.
-  * Trained a Linear Regression model to prove the exact business impact of shipping delays, identifying a drop in customer review scores from **4.29 to 2.27 stars**.
+I believe in documenting my growth. You can explore my comprehensive notes, code, and documentation in my primary repository: **[My Personalised Learning Journey](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey)**. 
 
-* **[Project-on-Pizza_sale-SQL](https://github.com/animeshsanghi-da/Project-on-Pizza_sale-SQL)**:
-  * A comprehensive SQL-based data analysis exploring pizza store sales. Features targeted queries answering real-world business questions regarding peak ordering hours, top-selling categories, and revenue distribution utilizing Complex Joins, Window Functions, and Subqueries.
+*(Click any category below to jump directly to the specific code/notes in my repository)*
 
-* **[Project-on-IBM_Telco_Customer_Churn_Retention_System](https://github.com/animeshsanghi-da/Project-on-IBM_Telco_Customer_Churn_Retention_System)**:
-  * Engineered a production-grade machine learning pipeline to predict customer churn, integrating a robust MySQL database architecture with programmatic Python ETL streaming.
-  * Deployed an interactive Streamlit web application providing real-time risk scoring and automated business retention strategies based on predictive modeling (XGBoost/Scikit-learn).
+* **[Programming & Data Manipulation](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/02.01-Python_Fundamentals):** Python (Advanced OOP, Functional), Pandas, NumPy, Regular Expressions (Regex).
+* **[Database & Cloud Architecture](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/03.03-Cloud_Data_Warehousing_and_BigQuery):** Advanced SQL (MySQL, BigQuery), Relational Database Design, Complex Joins, Window Functions, CTEs, CRUD Operations.
+* **[Machine Learning & AI](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/07.03-Gen-AI_and_LLM):** Scikit-learn, XGBoost, Predictive Modeling, Applied NLP, LLMs, RAG Architecture, Prompt Engineering, AI Agents.
+* **[Data Engineering & Automation](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/09.02-ETL_and_Data_Pipeline_Fundamentals):** ETL/ELT Pipelines, API Integration, Web Scraping (BeautifulSoup), Docker, Google Cloud Run, CI/CD, Linux Command Line, Cron.
+* **[Business Intelligence & Visualization](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/04.02-Power_BI):** Power BI (DAX, Power Query, Star Schema), Tableau, Streamlit Dashboards, Matplotlib, Seaborn.
+* **[Applied Business Statistics](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/06.01-Applied_Business_Statistics):** A/B Testing, Time Series Forecasting, Root Cause Analysis, Hypothesis Testing.
 
-* **[Mini_Projects-DA_and_ML](https://github.com/animeshsanghi-da/Mini_Projects-DA_and_ML)**:
-  * A comprehensive portfolio featuring **34 distinct practical projects** spanning data analytics, machine learning, software engineering, and AI tool development utilizing Python, SQL, Power BI, and various API frameworks.
+
+## 💼 Professional Background
+
+Before diving into data, I spent over 8 years managing operations, teams, and budgets across various sectors:
+* **Operations Manager:** Managed daily hospital ops, compliance, budgets, and payroll.
+* **Business Manager / Franchise Owner:** Directed cafe ops, optimized inventory forecasting, and increased daily revenue through workflow strategies.
+* **Development Officer (LIC):** Analyzed demographic data to recruit a 25+ agent team and expanded financial portfolios to 200+ clients.
+* **Operations Assistant:** Managed retail inventory, sales metrics, and customer relations.
 
 
 ## 📫 Let's Connect
+
+Whether you want to discuss data strategy, machine learning, or potential roles, I'd love to chat!
+
 * **LinkedIn:** [linkedin.com/in/animeshsanghi-da](https://www.linkedin.com/in/animeshsanghi-da/)
 * **Email:** [animeshsanghi.da@gmail.com](mailto:animeshsanghi.da@gmail.com)
-* **WhatsApp / Call:** [+91-9406570600](tel:+919406570600)
+* **Phone:** [+91-9406570600](tel:+919406570600)

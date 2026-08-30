@@ -11,6 +11,10 @@ My specialty lies in extracting messy, large-scale datasets, engineering reliabl
 
 Here are my top projects demonstrating my ability to build end-to-end pipelines, deploy machine learning models, and generate business value:
 
+* 🚗 **[CarPrice AI – Continuous Used Car Valuation Engine](https://github.com/animeshsanghi-da/Project-on-Car_Price_Predictor)**
+	- **Tech Stack:** Python, Scikit-Learn (Ridge Regression, ColumnTransformer), Pandas, NumPy, Joblib, Streamlit, Custom CSS
+	- Ingested and preprocessed a 120,000-row automotive dataset to build a continuous valuation engine. Applied **Ridge Regression on log-transformed prices** (log(1+y)) to eliminate decision-tree step-flattening, ensuring every UI adjustment (mileage, engine, seats) produces a smooth, continuous price change. Serialized the ML pipeline with `Joblib` and deployed an interactive Streamlit app.
+
 * 📉 **[End-to-End Telco Customer Churn Prediction & Retention System](https://github.com/animeshsanghi-da/Project-on-IBM_Telco_Customer_Churn_Retention_System)**
   * **Tech Stack:** Python, MySQL, SQLAlchemy, Scikit-Learn, XGBoost, Streamlit
   * Engineered a production-grade ETL pipeline processing 7,000+ rows of customer data into natively executed MySQL schemas. Developed a hybrid ML pipeline (XGBoost/Scikit-Learn) with an 84% ROC-AUC score, deployed via a dynamic Streamlit web app that provides real-time risk scoring and prescriptive retention strategies.

@@ -7,29 +7,38 @@ I am transitioning into tech after **8+ years** of hands-on experience in busine
 My specialty lies in extracting messy, large-scale datasets, engineering reliable ETL pipelines, and utilizing Gen-AI and predictive modeling to uncover straightforward, actionable insights. I don't just crunch numbers; I build data-driven strategies that optimize budgets, streamline operations, and drive revenue.
 
 
+## 🛠️ Languages, Frameworks & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  ![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+
 ## 🚀 Featured Data Analytics & ML Projects
 
 Here are my top projects demonstrating my ability to build end-to-end pipelines, deploy machine learning models, and generate business value:
 
+* ⚙️ **[Tally Prime Automation & Financial Analytics](https://www.google.com/search?q=https://github.com/animeshsanghi-da/Project-on-Tally_Automation_using_Python)**
+	* **Tech Stack:** Python, PyAutoGUI, Pandas, OpenPyXL, Markdown Report Engine
+	* Engineered a Robotic Process Automation (RPA) pipeline that automates double-entry ledger, stock item, and voucher imports into Tally Prime via simulated keystrokes. Built an automated data cleaning and parser engine that processes raw exported financial statements (`DayBook`, `TrialBal`, `PandL`, `BSheet`) into executive Markdown summary reports with debit/credit balance verification.
+
 * 🚗 **[CarPrice AI – Continuous Used Car Valuation Engine](https://github.com/animeshsanghi-da/Project-on-Car_Price_Predictor)**
-	- **Tech Stack:** Python, Scikit-Learn (Ridge Regression, ColumnTransformer), Pandas, NumPy, Joblib, Streamlit, Custom CSS
-	- Ingested and preprocessed a 120,000-row automotive dataset to build a continuous valuation engine. Applied **Ridge Regression on log-transformed prices** (log(1+y)) to eliminate decision-tree step-flattening, ensuring every UI adjustment (mileage, engine, seats) produces a smooth, continuous price change. Serialized the ML pipeline with `Joblib` and deployed an interactive Streamlit app.
+	* **Tech Stack:** Python, Scikit-Learn (Ridge Regression, ColumnTransformer), Pandas, NumPy, Joblib, Streamlit, Custom CSS
+	* Ingested and preprocessed a 120,000-row automotive dataset to build a continuous valuation engine. Applied **Ridge Regression on log-transformed prices** (log(1+y)) to eliminate decision-tree step-flattening, ensuring every UI adjustment (mileage, engine, seats) produces a smooth, continuous price change. Serialized the ML pipeline with `Joblib` and deployed an interactive Streamlit app.
 
 * 📉 **[End-to-End Telco Customer Churn Prediction & Retention System](https://github.com/animeshsanghi-da/Project-on-IBM_Telco_Customer_Churn_Retention_System)**
-  * **Tech Stack:** Python, MySQL, SQLAlchemy, Scikit-Learn, XGBoost, Streamlit
-  * Engineered a production-grade ETL pipeline processing 7,000+ rows of customer data into natively executed MySQL schemas. Developed a hybrid ML pipeline (XGBoost/Scikit-Learn) with an 84% ROC-AUC score, deployed via a dynamic Streamlit web app that provides real-time risk scoring and prescriptive retention strategies.
+	* **Tech Stack:** Python, MySQL, SQLAlchemy, Scikit-Learn, XGBoost, Streamlit
+	* Engineered a production-grade ETL pipeline processing 7,000+ rows of customer data into natively executed MySQL schemas. Developed a hybrid ML pipeline (XGBoost/Scikit-Learn) with an 84% ROC-AUC score, deployed via a dynamic Streamlit web app that provides real-time risk scoring and prescriptive retention strategies.
 
 * 📦 **[Olist E-Commerce Business Analysis](https://github.com/animeshsanghi-da/Project-on-Olist_Dataset)**
-  * **Tech Stack:** Python (Pandas, NumPy), MySQL, Matplotlib, Seaborn, Scikit-Learn
-  * Built a scalable ETL pipeline to merge 6 distinct relational tables into a 100,000+ row master dataset. Trained a Linear Regression model proving the exact business impact of shipping delays (customer ratings dropping from 4.29 to 2.27 stars) and mapped out geographical bottlenecks to advise management on lead-time improvements.
+	* **Tech Stack:** Python (Pandas, NumPy), MySQL, Matplotlib, Seaborn, Scikit-Learn
+	* Built a scalable ETL pipeline to merge 6 distinct relational tables into a 100,000+ row master dataset. Trained a Linear Regression model proving the exact business impact of shipping delays (customer ratings dropping from 4.29 to 2.27 stars) and mapped out geographical bottlenecks to advise management on lead-time improvements.
 
 * 🍕 **[Pizza Sales SQL Analysis](https://github.com/animeshsanghi-da/Project-on-Pizza_sale-SQL)**
-  * **Tech Stack:** Advanced SQL (Joins, Window Functions, CTEs)
-  * Queried raw transactional restaurant data to identify peak ordering hours, top-selling categories, and revenue distribution. Generated high-level overviews to help identify seasonal trends and optimize inventory planning.
+	* **Tech Stack:** Advanced SQL (Joins, Window Functions, CTEs)
+	* Queried raw transactional restaurant data to identify peak ordering hours, top-selling categories, and revenue distribution. Generated high-level overviews to help identify seasonal trends and optimize inventory planning.
 
 * 🤖 **[Data Analytics & Machine Learning Portfolio (34+ Mini-Projects)](https://github.com/animeshsanghi-da/Mini_Projects-DA_and_ML)**
-  * **Tech Stack:** Python, SQL, Power BI, Gen-AI (Google Gemini API), LangChain, Docker, Cloud Run
-  * A massive repository of over 34 practical projects. Includes 30+ baseline ML models (SVM, KNN, Logistic Regression), end-to-end Gen-AI applications (RAG-based PDF Chatbot, Autonomous Data Agent), comprehensive Power BI dashboards, and cloud CI/CD pipelines.
+	* **Tech Stack:** Python, SQL, Power BI, Gen-AI (Google Gemini API), LangChain, Docker, Cloud Run
+	* A massive repository of over 34 practical projects. Includes 30+ baseline ML models (SVM, KNN, Logistic Regression), end-to-end Gen-AI applications (RAG-based PDF Chatbot, Autonomous Data Agent), comprehensive Power BI dashboards, and cloud CI/CD pipelines.
 
 
 ## 🛠️ Technical Skills & My Learning Journey
@@ -42,7 +51,7 @@ I believe in documenting my growth. You can explore my comprehensive notes, code
 * **[Database & Cloud Architecture](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/03.03-Cloud_Data_Warehousing_and_BigQuery):** Advanced SQL (MySQL, BigQuery), Relational Database Design, Complex Joins, Window Functions, CTEs, CRUD Operations.
 * **[Machine Learning & AI](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/07.03-Gen-AI_and_LLM):** Scikit-learn, XGBoost, Predictive Modeling, Applied NLP, LLMs, RAG Architecture, Prompt Engineering, AI Agents.
 * **[Data Engineering & Automation](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/09.02-ETL_and_Data_Pipeline_Fundamentals):** ETL/ELT Pipelines, API Integration, Web Scraping (BeautifulSoup), Docker, Google Cloud Run, CI/CD, Linux Command Line, Cron.
-* **[Business Intelligence & Visualization](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/04.02-Power_BI):** Power BI (DAX, Power Query, Star Schema), Tableau, Streamlit Dashboards, Matplotlib, Seaborn.
+* **[Business Intelligence & Visualization](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/04.02-Power_BI):** Power BI (DAX, Power Query, Star Schema), Tableau, Tally Financial Reporting, Streamlit Dashboards, Matplotlib, Seaborn.
 * **[Applied Business Statistics](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/06.01-Applied_Business_Statistics):** A/B Testing, Time Series Forecasting, Root Cause Analysis, Hypothesis Testing.
 
 
@@ -53,6 +62,14 @@ Before diving into data, I spent over 8 years managing operations, teams, and bu
 * **Business Manager / Franchise Owner:** Directed cafe ops, optimized inventory forecasting, and increased daily revenue through workflow strategies.
 * **Development Officer (LIC):** Analyzed demographic data to recruit a 25+ agent team and expanded financial portfolios to 200+ clients.
 * **Operations Assistant:** Managed retail inventory, sales metrics, and customer relations.
+
+
+## 📜 Certifications & Credentials
+
+* 🎓 **Google Data Analytics Professional Certificate** — Google / Coursera
+* 🎓 **Google Data Analysis with Python Specialization** — Google / Coursera
+* 🎓 **MBA in Analytics & Data Science (Class of 2028)** — Manipal University Jaipur
+* 🏆 **Data Analytics Specialist Certification** — TopMentor (Batch 144)
 
 
 ## 📫 Let's Connect

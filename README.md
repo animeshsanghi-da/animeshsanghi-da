@@ -16,7 +16,7 @@ My specialty lies in extracting messy, large-scale datasets, engineering reliabl
 
 Here are my top projects demonstrating my ability to build end-to-end pipelines, deploy machine learning models, and generate business value:
 
-* ⚙️ **[Tally Prime Automation & Financial Analytics](https://www.google.com/search?q=https://github.com/animeshsanghi-da/Project-on-Tally_Automation_using_Python)**
+* ⚙️ **[Tally Prime Automation & Financial Analytics](https://github.com/animeshsanghi-da/Project-on-Tally_Automation_using_Python)**
 	* **Tech Stack:** Python, PyAutoGUI, Pandas, OpenPyXL, Markdown Report Engine
 	* Engineered a Robotic Process Automation (RPA) pipeline that automates double-entry ledger, stock item, and voucher imports into Tally Prime via simulated keystrokes. Built an automated data cleaning and parser engine that processes raw exported financial statements (`DayBook`, `TrialBal`, `PandL`, `BSheet`) into executive Markdown summary reports with debit/credit balance verification.
 

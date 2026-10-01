@@ -1,10 +1,12 @@
 # Hi there! 👋 I'm Animesh Sanghi
 
-> **Google-Certified Data Analyst | MBA Candidate (Analytics & Data Science, MUJ '28)**
+> **Google-Certified Data Analyst | MIS Executive | Power BI | SQL | Python | Advanced Excel**
+> 
+> **MBA Candidate (Analytics & Data Science, MUJ '28)**
 
-I am transitioning into tech after **8+ years** of hands-on experience in business operations, franchise ownership, and regional management. I bring a unique blend of real-world business acumen and advanced technical proficiency in Python, SQL, and Cloud Data Architecture. 
+I am a results-driven Data Analyst with project-based experience across **Python, SQL, Power BI, Tableau, and Advanced Excel**, backed by **40+ end-to-end analytics projects** and the **Google Data Analytics Professional Certificate**. 
 
-My specialty lies in extracting messy, large-scale datasets, engineering reliable ETL pipelines, and utilizing Gen-AI and predictive modeling to uncover straightforward, actionable insights. I don't just crunch numbers; I build data-driven strategies that optimize budgets, streamline operations, and drive revenue.
+I bring hands-on experience in operations, team management, financial reporting, budgeting, and payroll, complemented by small business operations. My technical expertise spans data cleaning, exploratory data analysis (EDA), ETL/ELT pipelines, MIS reporting, dynamic BI dashboard creation, and predictive modeling. I specialize in translating complex, multi-source datasets into clear, actionable business strategies.
 
 
 ## 🛠️ Languages, Frameworks & Tools
@@ -59,27 +61,35 @@ I believe in documenting my growth. You can explore my comprehensive notes, code
 * **[Applied Business Statistics](https://github.com/animeshsanghi-da/My_Personalised_Learning_Journey/tree/main/06.01-Applied_Business_Statistics):** A/B Testing, Time Series Forecasting, Root Cause Analysis, Hypothesis Testing.
 
 
-## 💼 Professional Background
+## 💼 Professional Experience
 
-Before diving into data, I spent over 8 years managing operations, teams, and budgets across various sectors:
-* **Operations Manager:** Managed daily hospital ops, compliance, budgets, and payroll.
-* **Business Manager / Franchise Owner:** Directed cafe ops, optimized inventory forecasting, and increased daily revenue through workflow strategies.
-* **Development Officer (LIC):** Analyzed demographic data to recruit a 25+ agent team and expanded financial portfolios to 200+ clients.
-* **Operations Assistant:** Managed retail inventory, sales metrics, and customer relations.
+* **Operations Manager** | *Jagdish and Anand Buildcon* *(Dec 2024 – May 2026)*
+  * Managed daily district hospital operations and security team, maintaining government compliance and service benchmarks.
+  * Prepared operating budgets, tracked expenses, and managed payroll, ensuring accurate financial reporting (MIS).
+* **Development Officer** | *Life Insurance Corporation of India (LIC)* *(Aug 2023 – Sep 2024)*
+  * Analyzed market and demographic data to recruit, onboard, and mentor a team of 25+ sales agents.
+  * Evaluated client risk profiles to recommend tailored financial solutions, growing active portfolio to 200+ clients.
+* **Government Exam Preparation & Family Business Support** *(Jul 2017 – Jul 2023)*
+  * Developed quantitative reasoning, data analysis, and problem-solving skills while full-time preparing for competitive exams and supporting daily small business retail operations.
 
 
-## 📜 Certifications & Credentials
+## 📜 Certifications & Education
 
-* 🎓 **Google Data Analytics Professional Certificate** — Google / Coursera
-* 🎓 **Google Data Analysis with Python Specialization** — Google / Coursera
-* 🎓 **MBA in Analytics & Data Science (Class of 2028)** — Manipal University Jaipur
-* 🏆 **Data Analytics Specialist Certification** — TopMentor (Batch 144)
+### Certifications
+* 🎓 **Google Data Analytics Professional Certificate** — Coursera / Google *(Apr 2026)*
+* 🎓 **Google Data Analysis with Python Specialization** — Coursera / Google *(Aug 2026)*
+* 🏆 **Data Analytics Certification** — TopMentor *(In Progress – Expected Nov 2026)*
+
+### Education
+* 🎓 **Online MBA in Analytics & Data Science** — Manipal University Jaipur *(Expected Jun 2028)*
+* 🎓 **Bachelor of Commerce (B.Com)** — Jiwaji University *(Jun 2017)*
+* 🎓 **Diploma in Computer Application (DCA)** — Makhanlal University *(Mar 2016)*
 
 
 ## 📫 Let's Connect
 
-Whether you want to discuss data strategy, machine learning, or potential roles, I'd love to chat!
-
-* **LinkedIn:** [linkedin.com/in/animeshsanghi-da](https://www.linkedin.com/in/animeshsanghi-da/)
-* **Email:** [animeshsanghi.da@gmail.com](mailto:animeshsanghi.da@gmail.com)
-* **Phone:** [+91-9406570600](tel:+919406570600)
+* 📍 **Location:** Shivpuri, Madhya Pradesh, India *(Open to Relocate)*
+* 💼 **LinkedIn:** [linkedin.com/in/animeshsanghi-da](https://www.linkedin.com/in/animeshsanghi-da/)
+* 📧 **Email:** [animeshsanghi.da@gmail.com](mailto:animeshsanghi.da@gmail.com)
+* 📞 **Phone:** [+91 9406570600](tel:+919406570600)
+* 💻 **GitHub:** [github.com/animeshsanghi-da](https://github.com/animeshsanghi-da)

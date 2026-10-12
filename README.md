@@ -18,6 +18,10 @@ I bring hands-on experience in operations, team management, financial reporting,
 
 Here are my top projects demonstrating my ability to build end-to-end pipelines, deploy machine learning models, and generate business value:
 
+* 🍕 **[Comprehensive End-to-End Pizza Sales Analytics Project](https://github.com/animeshsanghi-da/Project-on-Pizza_Sales_end_to_end_Analytics)**
+	* **Tech Stack:** Power Query, Advanced SQL, Excel PivotCharts, Power BI, Tableau, Python (Matplotlib/Seaborn/OpenPyXL)
+	* **Summary:** Engineered a full-stack restaurant analytics solution spanning raw CSV data ingestion, Power Query transformation, MySQL schema design and query, Excel PivotCharts, Python EDA, multi-platform BI dashboards (Power BI & Tableau), and automated Excel executive report generation using OpenPyXL.
+
 * 📊 **[Python & Excel Data Automation Pipeline](https://github.com/animeshsanghi-da/Project-on-Python_Excel_Automation_Pipeline)**
 	* **Tech Stack:** Python, OpenPyXL, xlwings, Pandas
 	* Built a two-stage automated spreadsheet engine combining headless workbook styling with live desktop application control. Utilized **OpenPyXL** for headless formula injection, borders, custom currency formatting, and dynamic column sizing, alongside **xlwings** and **Pandas** to launch background Excel instances, execute regional data aggregations, and generate styled executive summary dashboards.
